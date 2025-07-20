@@ -1,7 +1,0 @@
-stack-size: 16
-enabled-potions:
-  - POTION
-  - SPLASH_POTION
-  - LINGERING_POTION
-use-custom-effects: false
-allowed-effects: []
