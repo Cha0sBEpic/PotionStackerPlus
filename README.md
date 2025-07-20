@@ -2,6 +2,10 @@
 This is a configurable [Purpur 1.21.7] plugin that lets you control potion stack behavior.
 
 
+Notice!! This Plugin is still under development. Some features are not fleshed out as i want them to be. 
+
+
+
 ✅ Features:
 Custom Stack Size: Stack any potion up to your configured amount (stack-size in config).
 
